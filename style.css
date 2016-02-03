@@ -21,7 +21,7 @@ body {
 
 .masthead h2{
   text-align: center;
-  color: 	#F2385A;
+  color:  #F2385A;
   font-family: 'Shadows Into Light', cursive;
   text-shadow: 0 0 #000;
 }
@@ -95,6 +95,13 @@ body {
 
 .answer-selector {
   margin: 0 4px;
+}
+
+#submit {
+  background-color: #36B1BF;
+  color: #4AD9D9;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 25PX;
 }
 
 #stickyfootercat {
